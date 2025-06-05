@@ -1,5 +1,8 @@
 # Blog
 개인 개발 블로그
+### 참고 링크
+https://d5br5.dev/blog/nextjs_blog/setup#%EB%A7%88%EB%AC%B4%EB%A6%AC%ED%95%98%EB%A9%B0
+https://miryang.dev/blog/build-blog-with-nextjs
 ## 예상 기술 스택
 ### Frontend Framework
 - [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
